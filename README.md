@@ -18,6 +18,7 @@ In the modeling and evaluation phase, a sophisticated multiple regression model 
 
 ## Results Summary
 ![Caption: Scatterplot illustrating actual vs. predicted fare amounts.](actual%20vs%20predicted.png)
+Caption: Scatterplot illustrating actual vs. predicted fare amounts.
 
 ## Conclusion
 In summary, our multiple regression model represents a paradigm shift in predicting taxi fare amounts. Its precision and reliability have the potential to revolutionize the taxi industry. Passengers can now plan their budgets effectively, and taxi companies can optimize resource allocation, leading to a seamless and enhanced transportation ecosystem.
