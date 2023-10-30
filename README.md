@@ -18,6 +18,7 @@ In the modeling and evaluation phase, a sophisticated multiple regression model 
 
 ## Results Summary
 ![Caption: Scatterplot illustrating actual vs. predicted fare amounts.](actual%20vs%20predicted.png)
+
 Caption: Scatterplot illustrating actual vs. predicted fare amounts.
 
 ## Conclusion
